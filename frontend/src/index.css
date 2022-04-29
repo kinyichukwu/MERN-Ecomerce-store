@@ -41,3 +41,7 @@ main {
 .img-large {
   max-width: 100%;
 }
+
+.small-container {
+  max-width: 600px;
+}
