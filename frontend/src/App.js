@@ -7,7 +7,7 @@ import Nav from 'react-bootstrap/Nav';
 import Container from 'react-bootstrap/Container';
 import { LinkContainer } from 'react-router-bootstrap';
 import { useContext } from 'react';
-import { Store } from './screens/Store';
+import { Store } from './Store';
 import CartScreen from './screens/CartScreen';
 import SigninScreen from './screens/SigninScreen';
 
