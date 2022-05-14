@@ -1,0 +1,21 @@
+{
+  "name": "amx",
+  "version": "1.0.0",
+  "description": "��#\u0000 \u0000M\u0000E\u0000R\u0000N\u0000-\u0000E\u0000c\u0000o\u0000m\u0000e\u0000r\u0000c\u0000e\u0000-\u0000s\u0000t\u0000o\u0000r\u0000e\u0000\r\u0000 \u0000",
+  "main": "index.js",
+  "scripts": {
+    "build": "cd backend && npm install  && cd ../frontend && npm install && npm run build",
+    "start": "node backend/server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kinyichukwu/MERN-Ecomerce-store.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kinyichukwu/MERN-Ecomerce-store/issues"
+  },
+  "homepage": "https://github.com/kinyichukwu/MERN-Ecomerce-store#readme"
+}
