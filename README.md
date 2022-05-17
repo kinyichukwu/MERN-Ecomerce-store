@@ -1,2 +1,2 @@
 ﻿# MERN-Ecomerce-store
-updated my code to the latest version or react and node
+https://sharon-clothing-store.herokuapp.com/cart
