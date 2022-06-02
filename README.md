@@ -24,5 +24,12 @@ data for them. Filter was also implemented so
 until corn and uncle link it will filter to the
 specifications you want.
 
+#How to run the file
+After downloading the repository create your
+ dirty my files and get your PayPal API your 
+body by API key and also your cloud 9 API key 
+then you can learn run record shows 3000 and run 
+localhost 500 on the back end.
+
 
 https://sharon-clothing-store.herokuapp.com/cart
